@@ -7,3 +7,7 @@
 #### --platform=linux/arm64 xiaoyaliu/alist
 #################################################################
 ubuntu
+Debian
+Armbian
+moelin/1panel:v1.10.15-lts
+moelin/1panel:latest

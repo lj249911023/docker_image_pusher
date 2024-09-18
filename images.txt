@@ -16,7 +16,5 @@
 # zmisgod/iptvchecker:v4.0.1.1
 # zmisgod/iptvchecker:latest
 # sulinggg/openwrt:armv7
-linuxserver/wireguard:arm32v7-latest
-linuxserver/wireguard:arm32v7-1.0.20210914
-linuxserver/wireguard:arm32v7-legacy
-linuxserver/wireguard:v1.0.20210914-ls120
+3proxy/3proxy:0.9.4
+3proxy/3proxy:0.9.4.minimal

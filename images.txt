@@ -8,6 +8,7 @@
 #################################################################
 # armbian
 #################################################################
+alpine
 # ubuntu
 # debian
 #################################################################
@@ -16,5 +17,3 @@
 # zmisgod/iptvchecker:v4.0.1.1
 # zmisgod/iptvchecker:latest
 # sulinggg/openwrt:armv7
-3proxy/3proxy:0.9.4
-3proxy/3proxy:0.9.4.minimal

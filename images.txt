@@ -6,8 +6,14 @@
 #### #支持指定架构
 #### --platform=linux/arm64 xiaoyaliu/alist
 #################################################################
+# armbian
+#################################################################
 ubuntu
 debian
-# armbian
+#################################################################
 moelin/1panel:v1.10.15-lts
 moelin/1panel:latest
+zmisgod/iptvchecker:v4.0.1.1
+zmisgod/iptvchecker:latest
+sulinggg/openwrt:armv7
+sulinggg/openwrt:armv8

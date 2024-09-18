@@ -8,7 +8,7 @@
 #################################################################
 # armbian
 #################################################################
-alpine
+# alpine
 # ubuntu
 # debian
 #################################################################
@@ -16,4 +16,6 @@ alpine
 # moelin/1panel:latest
 # zmisgod/iptvchecker:v4.0.1.1
 # zmisgod/iptvchecker:latest
-# sulinggg/openwrt:armv7
+sulinggg/openwrt:armv7
+sulinggg/openwrt:latest
+sulinggg/openwrt:armv8

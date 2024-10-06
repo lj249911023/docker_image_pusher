@@ -16,5 +16,6 @@
 # moelin/1panel:latest
 # zmisgod/iptvchecker:v4.0.1.1
 # zmisgod/iptvchecker:latest
-cnsoluciones/mikrotik:latest
-cnsoluciones/mikrotik:7.6
+# cnsoluciones/mikrotik:latest
+# cnsoluciones/mikrotik:7.6
+mzz2017/v2raya

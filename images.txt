@@ -8,9 +8,13 @@
 #################################################################
 # armbian
 #################################################################
-# alpine
-# ubuntu
-# debian
+alpine
+ubuntu
+arm32v7/ubuntu
+arm64v8/ubuntu
+debian
+arm32v7/debian
+arm64v8/debian
 #################################################################
 # moelin/1panel:v1.10.15-lts
 # moelin/1panel:latest
@@ -18,4 +22,4 @@
 # zmisgod/iptvchecker:latest
 # cnsoluciones/mikrotik:latest
 # cnsoluciones/mikrotik:7.6
-mzz2017/v2raya
+# mzz2017/v2raya

@@ -17,11 +17,13 @@
 #arm64v8/debian
 #################################################################
 # moelin/1panel:v1.10.15-lts
-moelin/1panel:v1.10.18-lts
+# moelin/1panel:v1.10.18-lts
 # moelin/1panel:latest
 # zmisgod/iptvchecker:v4.0.1.1
 # zmisgod/iptvchecker:latest
 # cnsoluciones/mikrotik:latest
 # cnsoluciones/mikrotik:7.6
 # mzz2017/v2raya
-ghcr.io/wg-easy/wg-easy
+# ghcr.io/wg-easy/wg-easy
+mekayelanik/ispyagentdvr
+3proxy/3proxy

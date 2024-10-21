@@ -25,5 +25,6 @@
 # cnsoluciones/mikrotik:7.6
 # mzz2017/v2raya
 # ghcr.io/wg-easy/wg-easy
-mekayelanik/ispyagentdvr
-3proxy/3proxy
+#mekayelanik/ispyagentdvr
+#3proxy/3proxy
+feishuwg/wg:arm

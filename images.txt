@@ -27,4 +27,5 @@
 # ghcr.io/wg-easy/wg-easy
 #mekayelanik/ispyagentdvr
 #3proxy/3proxy
-feishuwg/wg:arm
+#feishuwg/wg:arm
+ui4freedom/uif
